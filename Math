@@ -1,7 +1,10 @@
-$$(Req)2 = R3+\frac{R1⋅R2}{R1+R2}$$ 
 
-$$I3 = \frac{V2}{(Req)2} $$ 
+'''math
 
-$$I2” = I3\times \frac{R1}{R1+R2} ......(2) $$
+(Req)2 = R3+\frac{R1⋅R2}{R1+R2} 
 
-$$V2’’ = I2’’⋅R2 ....(ii) $$
+I3 = \frac{V2}{(Req)2}  
+
+I2” = I3\times \frac{R1}{R1+R2} ......(2) 
+
+V2’’ = I2’’⋅R2 ....(ii)
